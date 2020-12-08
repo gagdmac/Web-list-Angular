@@ -1,0 +1,50 @@
+[
+  {
+    "name":"gagdfullstackdeveloper",
+    "shortname":"gagd_FSD",
+    "area":"Desarrollo Web & Creatividad",
+    "description":"Creación de CV online estilo pageless con CV PDF para descargar"
+  },
+  {
+    "name":"alvarogarciamd",
+    "shortname":"alvarogarcia_md",
+    "area":"Medicina",
+    "description":"Página personal del Doctor Alvaro Garcia Diaz"
+  },
+  {
+    "name":"bellezzapuraliposuction",
+    "shortname":"bellezza_pura_liposuction",
+    "area":"Medicina y cirugía estética",
+    "description":"Body shape y medicína estética"
+  },
+  {
+    "name":"semanticasocial",
+    "shortname":"semantica_social",
+    "area":"Fundrainsin & Marketing",
+    "description":"Marketing para ONG y causas sociales"
+  },
+  {
+    "name":"mustrealty",
+    "shortname":"mustrealty",
+    "area":"Real State",
+    "description":"Inmobiliaría para turistas extranjeros"
+  },
+  {
+    "name":"escolaeronauticadecatalunya",
+    "shortname":"escolaeronauticade_catalunya",
+    "area":"Aviación",
+    "description":"Escuela para Tripulante de Cabina de Pasajeros"
+  },
+  {
+    "name":"oklogistic",
+    "shortname":"oklogistic",
+    "area":"Logística y trasporte",
+    "description":"Trasnporte de mercancías nacional e internacional"
+  },
+  {
+    "name":"decoracionsalessandra",
+    "shortname":"decoracion_salessandra",
+    "area":"Tienda de Decoracion del hogar",
+    "description":"Web de las dos tiendas / info de las clases de pintura"
+  }
+]

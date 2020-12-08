@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+
+.css-selector {
+    background: linear-gradient(128deg, #426624, #66245e);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 8s ease infinite;
+    -o-animation: AnimationName 8s ease infinite;
+    animation: AnimationName 8s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:24% 0%}
+    50%{background-position:77% 100%}
+    100%{background-position:24% 0%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:24% 0%}
+    50%{background-position:77% 100%}
+    100%{background-position:24% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:24% 0%}
+    50%{background-position:77% 100%}
+    100%{background-position:24% 0%}
+}
+
+.mainTitle, .forTitle, .list{
+    color: #FFF;
+}
+
+.badge{
+    box-shadow: 5px 5px 1px #fff;
+}
+
+p, a{ color:rgb(197, 197, 197);}
+
+a:hover, a:active, a:focus{ color:rgb(218, 218, 218); text-decoration: none;}
